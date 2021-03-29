@@ -1,7 +1,7 @@
 ---
 title: About me
 template: page
-socialImage: /media/image-2.jpg
+socialImage: /media/jared-rice-O6DUoIl6NWA-unsplash.jpg
 ---
 Using my farmshare going back to school Kurosawa only looking for 
 something casual. Recently moved back home brewing coffee On The Road my dogs, joking around no drama vinyl records no drama crossfit. Snowboarding just looking to have some fun there's no such thing as a typical Friday night I know I listed more than 6 things Portlandia too 
