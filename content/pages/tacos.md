@@ -5,7 +5,7 @@ socialImage: /media/jeswin-thomas-z_PfaGzeN9E-unsplash.jpg
 ---
 ### Every day is taco ipsum tuesday.
 
-![](https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D\&ixlib=rb-1.2.1\&auto=format\&fit=crop\&w=2142\&q=80) 
+![](/media/jeswin-thomas-z_PfaGzeN9E-unsplash.jpg)
 
 Flour or corn tortillas? Tacos,
 again? This will be 5 times this week and it’s only Tuesday. Make it a
