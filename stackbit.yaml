@@ -12,7 +12,7 @@ buildCommand: gatsby build
 # publish
 publishDir: public
 
-dataDir: null
+dataDir: data
 
 # The folder with markdown files representing your site pages
 pagesDir: content
@@ -63,6 +63,10 @@ models:
         label: Template
         hidden: true
         const: post
+      - type: boolean
+        name: draft
+        label: Draft
+        default: true
       - type: string
         name: title
         label: Title
@@ -87,3 +91,106 @@ models:
         label: Tags
         items:
           type: string
+  config:
+    type: data
+    label: Config
+    file: site.json
+    fields:
+      - type: string
+        name: title
+        label: Site Title
+      - type: string
+        name: subtitle
+        label: Site Subtitle
+      - type: string
+        name: copyright
+        label: Copyright
+      - type: list
+        name: menu
+        label: Menu
+        items:
+          type: model
+          models:
+            - menu_item
+      - type: model
+        name: author
+        label: Author
+        models:
+          - author
+  menu_item:
+    type: object
+    label: Menu Item
+    labelField: label
+    fields:
+      - type: string
+        name: label
+        label: Label
+      - type: string
+        name: path
+        label: Path
+  author:
+    type: object
+    label: Author
+    labelField: name
+    fields:
+      - type: string
+        name: name
+        label: Name
+      - type: string
+        name: bio
+        label: Bio
+      - type: image
+        name: photo
+        label: Photo
+      - type: object
+        name: contacts
+        label: Contacts
+        fields:
+          - type: string
+            name: email
+            label: email
+          - type: string
+            name: facebook
+            label: facebook
+          - type: string
+            name: telegram
+            label: telegram
+          - type: string
+            name: twitter
+            label: twitter
+          - type: string
+            name: github
+            label: github
+          - type: string
+            name: rss
+            label: rss
+          - type: string
+            name: linkedin
+            label: linkedin
+          - type: string
+            name: instagram
+            label: instagram
+          - type: string
+            name: vkontakte
+            label: vkontakte
+          - type: string
+            name: line
+            label: line
+          - type: string
+            name: gitlab
+            label: gitlab
+          - type: string
+            name: weibo
+            label: weibo
+          - type: string
+            name: codepen
+            label: codepen
+          - type: string
+            name: youtube
+            label: youtube
+          - type: string
+            name: soundcloud
+            label: soundcloud
+          - type: string
+            name: medium
+            label: medium
