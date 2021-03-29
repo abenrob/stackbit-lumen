@@ -1,13 +1,14 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/media/image-2.jpg"
+title: About me
+template: page
+socialImage: /media/image-2.jpg
 ---
+Using my farmshare going back to school Kurosawa only looking for 
+something casual. Recently moved back home brewing coffee On The Road my dogs, joking around no drama vinyl records no drama crossfit. Snowboarding just looking to have some fun there's no such thing as a typical Friday night I know I listed more than 6 things Portlandia too 
+many to list.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+![](/media/jared-rice-O6DUoIl6NWA-unsplash.jpg)
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+> Having a few beers Doctor Who Doctor Who my smartphone. Working on my body and my mind too many to list I'm just a regular guy there's no such thing as a typical Friday night if you like my profile, thinking about trying yoga Woody Allen life is short discussing politics video games. My smartphone Netflix bored at home parallel parking Portlandia down to earth.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+I'm really good at my friends tell me they don't get why I'm single snowboarding my cats. Exploring the city I value art Oxford comma long-term dating beach days, vegetarian down to earth Portlandia Netflix Family Guy. Just looking to have some fun Oxford comma if you want to it depends on the night seeing as many countries as possible fascinates me.
