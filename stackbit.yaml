@@ -51,10 +51,6 @@ models:
       - type: image
         name: socialImage
         label: Social Image
-      - type: boolean
-        name: draft
-        label: Draft
-        default: true
   posts:
     type: page
     label: Posts
@@ -77,10 +73,6 @@ models:
       - type: image
         name: socialImage
         label: Social Image
-      - type: boolean
-        name: draft
-        label: Draft
-        default: true
       - type: date
         name: date
         label: Publish Date

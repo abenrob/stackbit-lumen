@@ -1,7 +1,6 @@
 ---
 template: page
 title: lorem-ipsum
-draft: true
 ---
 ## Lorem ipsum
 
