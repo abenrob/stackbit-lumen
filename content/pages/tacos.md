@@ -1,6 +1,6 @@
 ---
 template: page
-title: lorem-ipsum
+title: Taco's are a boy's best friend
 ---
 ## Lorem ipsum
 
