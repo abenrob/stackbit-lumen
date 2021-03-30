@@ -1,36 +1,19 @@
 stackbitVersion: ~0.3.0
-
-# Use node version 14
 nodeVersion: 14
-
-# The name of the static-site-generator
 ssgName: gatsby
-
-# builder
-buildCommand: gatsby build
-
-# publish
 publishDir: public
-
 dataDir: data
-
-# The folder with markdown files representing your site pages
 pagesDir: content
-
 logicFields:
   - slug
   - socialImage
   - post.category
   - post.tags
   - post.date
-
-# assets
 assets:
   referenceType: static
   staticDir: static/media
   publicPath: /media
-
-# models
 models:
   pages:
     type: page
@@ -48,9 +31,13 @@ models:
         name: title
         label: Title
         required: true
-      - type: image
+      - type: object
+        label: Social Preview
         name: socialImage
-        label: Social Image
+        fields: 
+          - type: image
+            name: publicUrl
+            label: Public Url
   posts:
     type: page
     label: Posts
@@ -74,9 +61,13 @@ models:
       - type: slug
         name: slug
         label: Slug
-      - type: image
+      - type: object
+        label: Social Preview
         name: socialImage
-        label: Social Image
+        fields: 
+          - type: image
+            name: publicUrl
+            label: Public Url
       - type: date
         name: date
         label: Publish Date
