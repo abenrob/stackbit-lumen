@@ -98,15 +98,14 @@ models:
         label: Menu
         items:
           type: object
-          name: menuitems
-          label: Menu Items
+          labelField: label
           fields:
-          - type: string
-            name: label
-            label: Label
-          - type: string
-            name: path
-            label: Path
+            - type: string
+              name: label
+              label: Label
+            - type: string
+              name: path
+              label: Path
       - type: model
         name: author
         label: Author
