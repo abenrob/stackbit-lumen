@@ -16,7 +16,7 @@
             "path": "/pages/contacts"
         },
         {
-            "label": "lorem-ipsum",
+            "label": "tacos",
             "path": "lorem-ipsum",
             "type": "menu_item"
         }
