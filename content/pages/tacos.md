@@ -1,8 +1,7 @@
 ---
 template: page
 title: Taco's are a boy's best friend
-socialImage:  
-  publicUrl: /media/jeswin-thomas-z_PfaGzeN9E-unsplash.jpg
+socialImage: /media/jeswin-thomas-z_PfaGzeN9E-unsplash.jpg
 ---
 ### Every day is taco ipsum tuesday.
 

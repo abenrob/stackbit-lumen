@@ -31,13 +31,9 @@ models:
         name: title
         label: Title
         required: true
-      - type: object
+      - type: image
         label: Social Preview
         name: socialImage
-        fields: 
-          - type: image
-            name: publicUrl
-            label: Public Url
   posts:
     type: page
     label: Posts
@@ -61,13 +57,9 @@ models:
       - type: slug
         name: slug
         label: Slug
-      - type: object
+      - type: image
         label: Social Preview
         name: socialImage
-        fields: 
-          - type: image
-            name: publicUrl
-            label: Public Url
       - type: date
         name: date
         label: Publish Date
