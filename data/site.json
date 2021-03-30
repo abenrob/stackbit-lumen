@@ -17,7 +17,7 @@
         },
         {
             "label": "tacos",
-            "path": "lorem-ipsum",
+            "path": "/pages/tacos",
             "type": "menu_item"
         }
     ],
