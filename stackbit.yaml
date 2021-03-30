@@ -135,48 +135,64 @@ models:
           - type: string
             name: email
             label: email
+            default: ""
           - type: string
             name: facebook
             label: facebook
+            default: ""
           - type: string
             name: telegram
             label: telegram
+            default: ""
           - type: string
             name: twitter
             label: twitter
+            default: ""
           - type: string
             name: github
             label: github
+            default: ""
           - type: string
             name: rss
             label: rss
+            default: ""
           - type: string
             name: linkedin
             label: linkedin
+            default: ""
           - type: string
             name: instagram
             label: instagram
+            default: ""
           - type: string
             name: vkontakte
             label: vkontakte
+            default: ""
           - type: string
             name: line
             label: line
+            default: ""
           - type: string
             name: gitlab
             label: gitlab
+            default: ""
           - type: string
             name: weibo
             label: weibo
+            default: ""
           - type: string
             name: codepen
             label: codepen
+            default: ""
           - type: string
             name: youtube
             label: youtube
+            default: ""
           - type: string
             name: soundcloud
             label: soundcloud
+            default: ""
           - type: string
             name: medium
             label: medium
+            default: ""
