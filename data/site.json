@@ -17,8 +17,7 @@
         },
         {
             "label": "Tacos",
-            "path": "/pages/tacos",
-            "type": "menu_item"
+            "path": "/pages/tacos"
         }
     ],
     "author": {
