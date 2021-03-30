@@ -10,6 +10,11 @@ logicFields:
   - post.category
   - post.tags
   - post.date
+  - config.title
+  - config.subtitle
+  - config.copyright
+  - config.menu
+  - config.author
 assets:
   referenceType: static
   staticDir: static/media
