@@ -136,63 +136,79 @@ models:
             name: email
             label: email
             default: ""
+            required: true
           - type: string
             name: facebook
             label: facebook
             default: ""
+            required: true
           - type: string
             name: telegram
             label: telegram
             default: ""
+            required: true
           - type: string
             name: twitter
             label: twitter
             default: ""
+            required: true
           - type: string
             name: github
             label: github
             default: ""
+            required: true
           - type: string
             name: rss
             label: rss
             default: ""
+            required: true
           - type: string
             name: linkedin
             label: linkedin
             default: ""
+            required: true
           - type: string
             name: instagram
             label: instagram
             default: ""
+            required: true
           - type: string
             name: vkontakte
             label: vkontakte
             default: ""
+            required: true
           - type: string
             name: line
             label: line
             default: ""
+            required: true
           - type: string
             name: gitlab
             label: gitlab
             default: ""
+            required: true
           - type: string
             name: weibo
             label: weibo
             default: ""
+            required: true
           - type: string
             name: codepen
             label: codepen
             default: ""
+            required: true
           - type: string
             name: youtube
             label: youtube
             default: ""
+            required: true
           - type: string
             name: soundcloud
             label: soundcloud
             default: ""
+            required: true
           - type: string
             name: medium
             label: medium
             default: ""
+            required: true
