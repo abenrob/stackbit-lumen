@@ -14,7 +14,10 @@ logicFields:
   - config.subtitle
   - config.copyright
   - config.menu
-  - config.author
+  - config.author.name
+  - config.author.bio
+  - config.author.photo
+  - config.author.contacts
 assets:
   referenceType: static
   staticDir: static/media
