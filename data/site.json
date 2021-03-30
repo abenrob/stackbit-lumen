@@ -16,7 +16,7 @@
             "path": "/pages/contacts"
         },
         {
-            "label": "tacos",
+            "label": "Tacos",
             "path": "/pages/tacos",
             "type": "menu_item"
         }
